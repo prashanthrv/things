@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A personal app",
   "engines": {
-    "node": "9.1.0"
+    "node": "8.1.3"
   },
   "main": "index.js",
   "scripts": {
