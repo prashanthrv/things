@@ -1,9 +1,10 @@
 {
-  "name": "node-js-getting-started",
+  "name": "Things",
   "version": "0.0.1",
   "description": "A personal app",
   "engines": {
-    "node": "9.1.0"
+    "node": "9.1.0",
+    "npm": "5.5.1"
   },
   "main": "index.js",
   "scripts": {
